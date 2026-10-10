@@ -4,7 +4,7 @@ High school developer, designer, and tech enthusiast based in California. I buil
 
 ---
 
-### Highlights & Projects
+### highlights & projects
 
 * 🌐 **The Mavion Corporation** | Managing media, design, and web properties under `tmc.gg` and **MavionDesigns**.
 * 🎙️ **Media & Broadcasting** | Operating **TTM Radio**, web audio streaming pipelines, and media endpoints.
@@ -14,7 +14,7 @@ High school developer, designer, and tech enthusiast based in California. I buil
 
 ---
 
-### Tech Stack & Tools
+### tech stack & tools
 
 **languages & web**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,6 +31,8 @@ High school developer, designer, and tech enthusiast based in California. I buil
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
+
+#### I also do **professional** work! if capital letters are your thing.
 
 ###  little blurp abt me
 
