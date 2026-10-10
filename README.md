@@ -1,20 +1,20 @@
 ## Hi there 👋
 
-<!--
 **mishr4/mishr4** is a ✨ _special_ ✨ person because its `companies` (in california) are awesome.
 
 # Hi there, I'm Alex Mishra 👋
 
-High school developer, designer, and tech enthusiast based in California. I build custom web applications, design visual identities, and experiment with media systems.
+High school developer, designer, and tech enthusiast based in California. I build custom web applications, design visual identities, and manage digital brands.
 
 ---
 
 ### 🚀 What I Do
 
-* 💻 **Web Development**: Building and deploying sites with HTML, CSS, JavaScript, Vercel, and Supabase.
-* 🎨 **Graphic & UI/UX Design**: Creating logos, icons, and visual systems in Figma and Adobe Illustrator.
-* 🎙️ **Media & Broadcasting**: Configuring web radio streaming, media players, and broadcasting pipelines.
-* 🛠️ **Systems & Scripting**: Working with Lua scripting and telecommunications configurations.
+* 💻 **Web Development**: Building full-stack sites with HTML, CSS, JavaScript, Vercel, and Supabase.
+* 🎨 **Graphic & UI/UX Design**: Crafting logos, wordmarks, and visual systems in Figma and Adobe Illustrator.
+* 🎙️ **Media & Broadcasting**: Running TTM Radio, setting up web streams, and configuring broadcast media endpoints.
+* 🏢 **Ventures & Projects**: Leading brand and web development at **Cirya** and **MavionDesigns**.
+* 🛠️ **Systems & Telecom**: Lua scripting for games, custom UI components, and VoIP telephony configurations.
 
 ---
 
@@ -30,7 +30,7 @@ High school developer, designer, and tech enthusiast based in California. I buil
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 
-**Backend & Hosting**
+**Backend & Infrastructure**
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
@@ -41,6 +41,12 @@ High school developer, designer, and tech enthusiast based in California. I buil
 ![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mishr4&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mishr4&layout=compact&theme=dark)
 
+---
+
+### 📫 Connect With Me
+
+* **Website**: [corporate.cirya.co](https://corporate.cirya.co)
+* **GitHub**: [@mishr4](https://github.com/mishr4)
 ---
 
 ### 📫 Connect With Me
