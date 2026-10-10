@@ -6,11 +6,11 @@ High school developer, designer, and tech enthusiast based in California. I buil
 
 ### highlights & projects
 
-* 🌐 **The Mavion Corporation** | Managing media, design, and web properties under `tmc.gg` and **MavionDesigns**.
-* 🎙️ **Media & Broadcasting** | Operating **TTM Radio**, web audio streaming pipelines, and media endpoints.
-* 💻 **Web Applications** | Building full-stack sites with HTML, CSS, JavaScript, Vercel, and Supabase.
-* 🎨 **Design Systems** | Crafting logos, wordmarks, and UI components in Figma and Adobe Illustrator.
-* 🛠️ **Systems & Infrastructure** | Lua game scripting, custom UI design, and FreePBX telecommunications setups.
+* **The Mavion Corporation** | Managing media, design, and web properties under `tmc.gg` and **MavionDesigns**.
+* **Media & Broadcasting** | Operating **TTM Radio**, web audio streaming pipelines, and media endpoints.
+* **Web Applications** | Building full-stack sites with HTML, CSS, JavaScript, Vercel, and Supabase.
+* **Design Systems** | Crafting logos, wordmarks, and UI components in Figma and Adobe Illustrator.
+* **Systems & Infrastructure** | Lua game scripting, custom UI design, and FreePBX telecommunications setups.
 
 ---
 
@@ -33,18 +33,34 @@ High school developer, designer, and tech enthusiast based in California. I buil
 ---
 
 #### I also do **professional** work! if capital letters are your thing.
-<!-- Stats & Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mishr4&show_icons=true&theme=radial&hide_border=true" alt="mishr4's GitHub stats" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishr4&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="49%" />
 </p>
 
-<!-- Streak Stats -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishr4&theme=radial&hide_border=true" alt="GitHub Streak" />
 </p>
 ---
-###  little blurp abt me
+### socials
+<p align="center">
+  <!-- YouTube -->
+  <a href="https://youtube.com/@tagnz" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <!-- X / Twitter -->
+  <a href="https://x.com/mavionx" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <!-- Discord -->
+  <a href="[https://discord.gg/YOUR_INVITE](https://discord.gg/CzuwBqBEQW)twi" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <!-- Twitch -->
+  <a href="https://twitch.tv/tagnzz" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
+  </a>
+</p>
 
 ```shell
 alex@mishr4:~$ neofetch
