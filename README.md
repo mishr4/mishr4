@@ -4,7 +4,7 @@ High school developer, designer, and tech enthusiast based in California. I buil
 
 ---
 
-### 🚀 Highlights & Ventures
+### Highlights & Projects
 
 * 🌐 **The Mavion Corporation** | Managing media, design, and web properties under `tmc.gg` and **MavionDesigns**.
 * 🎙️ **Media & Broadcasting** | Operating **TTM Radio**, web audio streaming pipelines, and media endpoints.
@@ -14,25 +14,25 @@ High school developer, designer, and tech enthusiast based in California. I buil
 
 ---
 
-### 🧰 Tech Stack & Tools
+### Tech Stack & Tools
 
-**Languages & Web**  
+**languages & web**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-**Design & Creative**  
+**design & creative**  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
-**Backend & Infrastructure**  
+**backend & inf**  
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-### ⚡ Dynamic Terminal
+###  little blurp abt me
 
 ```shell
 alex@mishr4:~$ neofetch
