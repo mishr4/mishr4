@@ -45,7 +45,7 @@ High school developer, designer, and tech enthusiast based in California. I buil
 
 ### 📫 Connect With Me
 
-* **Website**: [corporate.cirya.co](https://corporate.cirya.co)
+* **Website**: [tmc.gg](https://tmc.gg)
 * **GitHub**: [@mishr4](https://github.com/mishr4)
 ---
 
