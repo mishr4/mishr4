@@ -1,4 +1,3 @@
-## Hi there 👋
 
 **mishr4/mishr4** is a ✨ _special_ ✨ person because its `companies` (in california) are awesome.
 
