@@ -42,8 +42,9 @@ High school developer, designer, and tech enthusiast based in California. I buil
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishr4&theme=radial&hide_border=true" alt="GitHub Streak" />
 </p>
 ---
+
 ### socials
-<p align="center">
+<p align="left">
   <!-- YouTube -->
   <a href="https://youtube.com/@tagnz" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
