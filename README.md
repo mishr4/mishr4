@@ -43,7 +43,6 @@ High school developer, designer, and tech enthusiast based in California. I buil
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishr4&theme=radial&hide_border=true" alt="GitHub Streak" />
 </p>
-
 ---
 ###  little blurp abt me
 
